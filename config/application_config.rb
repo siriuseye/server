@@ -1,1 +1,1 @@
-configatron.community_name = 'Sirius Eye'
+configatron.community_name = "Sirius Eye"
